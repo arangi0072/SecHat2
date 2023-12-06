@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723177692930",
+    "firebase_url": "https://sechat-47bfa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sechat-47bfa",
+    "storage_bucket": "sechat-47bfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723177692930:android:74515630e8c39055922c1b",
+        "android_client_info": {
+          "package_name": "arpit.rangi.sechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723177692930-ve5rta0eqv2f25celfpk2c8mvmfr8mpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "arpit.rangi.sechat",
+            "certificate_hash": "724bf0f7c52a3b9bce4ad9814df63018ae80912b"
+          }
+        },
+        {
+          "client_id": "723177692930-lblolkvcoke1atgii7i2q870vc8ivlfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn7taC4G6jv5hADrjA59im-aQN_aRy7c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723177692930-lblolkvcoke1atgii7i2q870vc8ivlfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
